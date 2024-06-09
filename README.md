@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 <!--
 **kiriku22/kiriku22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
