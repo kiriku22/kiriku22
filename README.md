@@ -1,6 +1,9 @@
-## Hi there I'm John Alejandro Miranda Melguizo , ¡ready for the deal! 👋
+## Hi there I'm John Alejandro Miranda Melguizo , ¡Ready for the deal! 👋
 <!-- RAINBOW LINE TOP -->
-### <img src="https://i.pinimg.com/564x/bb/79/2b/bb792b8c205968bc834a71cd91506ca3.jpg" width="20%" align="right" style="border-radius: 50px;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <!-- BIOGRAFÍA --> I'm a 25 year old student at Pascual Bravo, specializing in backend and full-stack development.<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+#### <img src="https://github.com/kiriku22/kiriku22/blob/main/assets/kiriku.png" width="20%" align="left" style="border-radius: 50px;"><picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> <!-- BIOGRAFÍA --> I'm a 25 year old student at Pascual Bravo, specializing in backend and full-stack development.<picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
 ## <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%"> 
 
 <!--
