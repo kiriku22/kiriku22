@@ -1,10 +1,10 @@
 ## Hi there I'm John Alejandro Miranda Melguizo , ¡Ready for the deal! 👋
 <!-- RAINBOW LINE TOP -->
 ##### <img src="https://github.com/kiriku22/kiriku22/blob/main/assets/kiriku.png" width="20%" align="left" style="border-radius: 50px;"><picture><img src = "https://github.com/kiriku22/kiriku22/blob/main/assets/about_me.gif?raw=true" width = 40px></picture> <!-- BIOGRAFÍA --> I'm a 25 year old student at Pascual Bravo, specializing in backend and full-stack development.<picture><img src = "https://github.com/kiriku22/kiriku22/blob/main/assets/about_me.gif?raw=true" width = 40px></picture>
-#### - 🔭 I’m currently working on an e-commerce application with my work group."
+##### - 🔭 I’m currently working on an e-commerce application with my work group."
 
-#### - 🌱 I’m currently learning asp.net and react 
-#### - 👯 I’m looking to collaborate on an website or bank security
+##### - 🌱 I’m currently learning asp.net and react 
+##### - 👯 I’m looking to collaborate on an website or bank security
 ## <img src="https://github.com/kiriku22/kiriku22/blob/main/assets/line-neon.gif" width="100%"> 
 
 <!--
